@@ -1,0 +1,55 @@
+cff-version: 1.2.0
+message: >
+  If you use this software or its concepts in your research, please cite it
+  using the information below.
+
+title: "DataForge Africa NLP: Algorithm-First Language Intelligence for African Languages"
+
+type: software
+
+authors:
+  - given-names: Partlet Mpheya
+    family-names: Mphateng
+    affiliation: DataForge Africa
+    orcid: ""   # optional, add later if you have one
+
+abstract: >
+  DataForge Africa NLP is an open, algorithm-first foundation for building
+  trustworthy, explainable, and inclusive natural language processing (NLP)
+  systems for African languages. The project prioritizes deterministic language
+  normalization, linguistic respect, and educational clarity over black-box,
+  model-first approaches. It is designed for use in education, public services,
+  research, and community-oriented AI systems, particularly in low-resource and
+  low-connectivity environments.
+
+keywords:
+  - African languages
+  - natural language processing
+  - algorithm-first AI
+  - language normalization
+  - explainable AI
+  - low-resource NLP
+  - digital inclusion
+  - AI for education
+  - public sector AI
+
+license: MIT
+
+repository-code: "https://github.com/DataForgeAfrica/dataforge-africa"
+
+url: "https://github.com/DataForgeAfrica/dataforge-africa"
+
+version: "0.1.0"
+
+date-released: "2026-01-30"
+
+preferred-citation:
+  type: software
+  authors:
+    - given-names: Partlet Mpheya
+      family-names: Mphateng
+      affiliation: DataForge Africa
+  title: "DataForge Africa NLP: Algorithm-First Language Intelligence for African Languages"
+  year: 2026
+  version: "0.1.0"
+  url: "https://github.com/DataForgeAfrica/dataforge-africa"
